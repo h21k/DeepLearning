@@ -3,3 +3,4 @@ Comprehensive DeepLearning Repository including exercises and courses designed a
 
 Current Libraries:
 + TensorFlow 
++ PyTorch
